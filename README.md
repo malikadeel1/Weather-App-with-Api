@@ -31,7 +31,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/yourusername/weather-app.git
+   git clone https://github.com/malikadeel1/weather-app.git
    ```
 
 2. **Navigate to the Project Directory:**
