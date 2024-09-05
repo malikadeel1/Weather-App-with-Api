@@ -1,4 +1,4 @@
-# Weather App
+# Weather-App-with-Api
 
 A simple and intuitive weather application built using HTML, CSS, and JavaScript, utilizing a weather API to provide real-time weather information.
 
@@ -36,7 +36,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 2. **Navigate to the Project Directory:**
    ```bash
-   cd weather-app
+   cd Weather-App-with-Api
    ```
 
 3. **Open the `index.html` file in your browser.**
@@ -49,9 +49,9 @@ To get a copy of this project up and running on your local machine, follow these
 
 ## API
 
-This project uses the [Weather API](https://www.weatherapi.com/) to fetch weather data.
+This project uses the [Weather API](https://www.openweather.com/) to fetch weather data.
 
-1. **API Key:** To use this API, you'll need to sign up and obtain your API key.
+1. **API Key:** To use this API, you'll need to sign up and obtain your API key form openweather.com.
 2. **API Documentation:** Refer to the API documentation for detailed information on endpoints and parameters.
 
 ## Contributing
@@ -76,10 +76,3 @@ Contributions are welcome! To contribute:
 
 Please ensure that your code adheres to the existing style and includes appropriate tests.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify the sections to better fit your project specifics. For instance, if you have a special setup or configuration instructions, include them in the `Installation` section. If you have any other relevant sections, such as screenshots or a FAQ, you can add them to the README as well.
