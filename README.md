@@ -49,7 +49,7 @@ To get a copy of this project up and running on your local machine, follow these
 
 ## API
 
-This project uses the [Weather API](https://www.openweather.com/) to fetch weather data.
+This project uses the [Weather API](**https://www.openweather.com/**) to fetch weather data.
 
 1. **API Key:** To use this API, you'll need to sign up and obtain your API key form openweather.com.
 2. **API Documentation:** Refer to the API documentation for detailed information on endpoints and parameters.
